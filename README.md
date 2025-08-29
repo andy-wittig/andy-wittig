@@ -1,6 +1,8 @@
-## Hey, Im Andy!
+## Hey there, I'm Andy!
 
-### My Frequent Languages
+I greatly enjoy creating immersive experiences in games, graphics, and websites.
+
+### My Frequently Used Languages
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
