@@ -1,6 +1,6 @@
 ## Hey there, I'm Andy!
 
-I greatly enjoy creating immersive experiences in games, graphics, and websites.
+I love researching computer graphics technologies, pushing my creativity through game development, and building immersive user experiences. I’m currently pursuing my bachelor’s degree in Computer Science at the University of Nevada, Reno, with aspirations of launching a career in Software Engineering. I’m passionate and dedicated to my work, bringing enthusiasm and a problem-solving mindset to every project I take on.
 
 ### :computer: My Frequently Used Languages
 
