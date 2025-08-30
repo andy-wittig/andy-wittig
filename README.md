@@ -1,11 +1,15 @@
 ## Hey there, I'm Andy!
 
-I love researching computer graphics technologies, pushing my creativity through game development, and building immersive user experiences. I’m currently pursuing my bachelor’s degree in Computer Science at the University of Nevada, Reno, with aspirations of launching a career in Software Engineering. I’m passionate and dedicated to my work, bringing enthusiasm and a problem-solving mindset to every project I take on.
+:floppy_disk: I love designing computer graphics technologies, pushing my creativity through game development, and building immersive user experiences.
 
-<h2 align="center">
+:mortar_board: I’m currently pursuing my bachelor’s degree in Computer Science at the University of Nevada, Reno, with aspirations of launching a career in Software Engineering.
+
+:milky_way: I’m passionate and dedicated to my work, bringing enthusiasm and a problem-solving mindset to every project I take on.
+
+<h3 align="center">
   Check out my <a href="https://andy-wittig.github.io/Andrew-Wittig-Portfolio/">portfolio</a> 
   to see more about the projects I'm working on!
-</h2>
+</h3>
 
 <p align="center">
   <img src="https://github.com/andy-wittig/Andrew-Wittig-Portfolio/blob/main/Images/Screenshot%201.png"
