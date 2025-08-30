@@ -5,6 +5,11 @@ I love researching computer graphics technologies, pushing my creativity through
 Check out my
 [portfolio](https://andy-wittig.github.io/Andrew-Wittig-Portfolio/)
 to see more about the projects I'm working on!
+<p align="center">
+  <img src="https://github.com/andy-wittig/Andrew-Wittig-Portfolio/blob/main/Images/Screenshot%201.png"
+    alt="Space Graphics Engine"
+    width="450"/>
+</p>
 
 ### :computer: My Frequently Used Languages
 
@@ -15,6 +20,6 @@ to see more about the projects I'm working on!
 
 ### :wave: Thanks for stopping by!
 <div align="center">
-:eyes:
-<br><img src="https://komarev.com/ghpvc/?username=andy-wittig&style=for-the-badge&color=000000" />
+  :eyes:
+  <br><img src="https://komarev.com/ghpvc/?username=andy-wittig&style=for-the-badge&color=000000" />
 </div>
