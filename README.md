@@ -14,3 +14,4 @@ to see more about the projects I'm working on!
 ![GDScript](https://img.shields.io/badge/-GDScript-000?&logo=GodotEngine&logoColor=478CBF)
 
 ### :wave: Thanks for stopping by!
+![:eyes:](https://komarev.com/ghpvc/?username=andy-wittig&style=for-the-badge&color=000000)
