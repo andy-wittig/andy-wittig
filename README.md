@@ -1,6 +1,6 @@
 ## Hey there, I'm Andy!
 
-:floppy_disk: I love designing computer graphics technologies, pushing my creativity through game development, and building immersive user experiences.
+:floppy_disk: I love designing computer graphics realted technology, pushing my creativity through game development, and building immersive user experiences.
 
 :mortar_board: I’m currently pursuing my bachelor’s degree in Computer Science at the University of Nevada, Reno, with aspirations of launching a career in Software Engineering.
 
