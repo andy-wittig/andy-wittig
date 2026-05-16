@@ -12,6 +12,9 @@
 </h3>
 
 <p align="center">
+  <img src="https://github.com/andy-wittig/andy-wittig/blob/main/ScreenShot5.png"
+    alt="Echo's Cry Screenshot"
+    width="400"/>
   <img src="https://github.com/andy-wittig/Andrew-Wittig-Portfolio/blob/main/Images/Screenshot%201.png"
     alt="Space Graphics Engine"
     width="400"/>
